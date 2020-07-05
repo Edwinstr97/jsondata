@@ -1,133 +1,85 @@
 {
     "Chats": [
         {
-            "name": "Quincy Larson",
+            "name": "Simbu",
             "time": "8:54 AM",
-            "message": "learn to code.",
+            "message": "Enna Vazhka da Idhu.",
             "icon": "done",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/quincy.jpg"
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6bambqq1nl9cr88ijpt6kq3g6-20190928011340.Medi.jpeg"
         },
         {
-            "name": "Preethi Kasireddy",
+            "name": "Rajini",
             "time": "11:56 AM",
-            "message": "viverra pede",
+            "message": "Sirrapu",
             "icon": "done",
             "isViewed": true,
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/preeti.jpg"
+            "image": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/12/22/Photos/Processed/rajini-kSWE--621x414@LiveMint.JPG"
         },
         {
-            "name": "Douglas Crockford",
+            "name": "Tupac Shakur",
             "time": "1:34 AM",
-            "message": "vehicula consequat",
+            "message": "Only god can judge me",
             "icon": "done-all",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/crockford.jpg"
+            "image": "https://cdn.britannica.com/02/162002-050-02512608/Tupac-Shakur-1993.jpg"
         },
         {
-            "name": "Andrew Clark",
+            "name": "Abdul Kalam",
             "time": "2:12 AM",
-            "message": "vehicula",
+            "message": "Wings of Fire",
             "icon": "done-all",
             "isViewed": true,
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/andrew.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/A._P._J._Abdul_Kalam_in_2008.jpg"
         },
         {
-            "name": "Brendan Eich",
+            "name": "Veerapan",
             "time": "11:23 AM",
-            "message": "amet",
+            "message": "SandalWood",
             "icon": "done",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/brendan.jpg"
+            "image": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/03/31/Pictures/india-kidnap-veerapan_be63c272-15dc-11e7-85c6-0f0e633c038c.jpg"
         },
         {
-            "name": "Max Stoiber",
+            "name": "Kamal Hassan",
             "time": "3:15 PM",
-            "message": "quis orci nullam",
+            "message": "Big Boss",
             "icon": "done",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/mxstbr.jpg"
+            "image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kamal-haasan-2886-24-03-2017-17-54-38.jpg"
         },
         {
-            "name": "Tobias Van Schnieder",
+            "name": "Nawazuddin Sidiqui",
             "time": "5:06 AM",
-            "message": "felis sed lacus",
+            "message": "petta",
             "icon": "done-all",
             "isViewed": true,
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/tobias.jpg"
+            "image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nawazuddin_siddiqui_17110_26-07-2016_05-42-25.jpg?1"
         },
         {
-            "name": "Wes Bos",
+            "name": "Yash",
             "time": "11:28 PM",
-            "message": "purus aliquet at",
+            "message": "K.G.F",
             "icon": "done-all",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/wes.jpg"
+            "image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yasha-2537-18-12-2019-12-44-12.jpg"
         },
         {
-            "name": "Tom Occhino",
+            "name": "Captain Jack Sparrow,
             "time": "12:36 PM",
-            "message": "aliquam lacus morbi",
+            "message": "Why's the run Gone!!",
             "icon": "done-all",
             "isViewed": true,
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/tom.jpg"
+            "image": "https://i.pinimg.com/originals/a7/1e/ab/a71eabbbbb1ac7efd0583410055233db.jpg"
         },
         {
 
-            "name": "Dan Abramov",
+            "name": "Michael",
             "time": "3:05 PM",
-            "message": "integer tincid",
+            "message": "Beat it",
             "icon": "done-all",
             "isViewed": true,
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/dan.jpg"
-        }
-    ],
-
-    "Contacts": [
-        {
-            "name": "Brendan Eich",
-            "status": "I made Javascript !",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/brendan.jpg"
-        },
-        {
-            "name": "Quincy Larson",
-            "status": "Teacher,freecodecamper",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/quincy.jpg"
-        },
-        {
-            "name": "Dan Abramov",
-            "status": "I made Redux but You might not need Redux",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/dan.jpg"
-        },
-        {
-            "name": "Douglas Crockford",
-            "status": "JS the Good Parts",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/crockford.jpg"
-        },
-        {
-            "name": "Kylie Simpson",
-            "status": "I dont know JS & You dont know JS !",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/kyle.jpg"
-        },
-        {
-            "name": "Andrew Clark",
-            "status": "lorem ipsum",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/andrew.jpg"
-        },
-        {
-            "name": "Tobias Van Schnieder",
-            "status": "Spotify ! Designer !",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/tobias.jpg"
-        },
-        {
-            "name": "Wes Bos",
-            "status": "Spotify ! Designer !",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/wes.jpg"
-        },
-        {
-            "name": "Eric Elliot",
-            "status": "I m not JS chearleader",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/eric.jpg"
+            "image": "https://i2-prod.mirror.co.uk/incoming/article22267475.ece/ALTERNATES/s615b/0_FILES-FRANCE-US-ABUSE-JACKSON.jpg"
         }
     ],
     "Calls": [
