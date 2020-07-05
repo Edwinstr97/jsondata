@@ -6,7 +6,7 @@
             "message": "learn to code.",
             "icon": "done",
             "isViewed": "false",
-            "image": "https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg"
+            "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6bambqq1nl9cr88ijpt6kq3g6-20190928011340.Medi.jpeg"
         },
         {
             "name": "Preethi Kasireddy",
@@ -14,7 +14,7 @@
             "message": "viverra pede",
             "icon": "done",
             "isViewed": true,
-            "image": "https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg"
+            "image": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/12/22/Photos/Processed/rajini-kSWE--621x414@LiveMint.JPG"
         },
         {
             "name": "Douglas Crockford",
@@ -30,7 +30,7 @@
             "message": "vehicula",
             "icon": "done-all",
             "isViewed": true,
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/andrew.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/A._P._J._Abdul_Kalam_in_2008.jpg"
         },
         {
             "name": "Brendan Eich",
@@ -38,7 +38,7 @@
             "message": "amet",
             "icon": "done",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/brendan.jpg"
+            "image": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2017/03/31/Pictures/india-kidnap-veerapan_be63c272-15dc-11e7-85c6-0f0e633c038c.jpg"
         },
         {
             "name": "Max Stoiber",
@@ -46,7 +46,7 @@
             "message": "quis orci nullam",
             "icon": "done",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/mxstbr.jpg"
+            "image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kamal-haasan-2886-24-03-2017-17-54-38.jpg"
         },
         {
             "name": "Tobias Van Schnieder",
@@ -62,7 +62,7 @@
             "message": "purus aliquet at",
             "icon": "done-all",
             "isViewed": "false",
-            "image": "/Users/chauhan/Desktop/Whatsapp/App/images/wes.jpg"
+            "image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yasha-2537-18-12-2019-12-44-12.jpg"
         },
         {
             "name": "Tom Occhino",
